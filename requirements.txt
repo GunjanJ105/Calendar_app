@@ -1,6 +1,2 @@
-tk
-json
-calendar
-flask
-gunicorn
 streamlit
+
